@@ -1,0 +1,27 @@
+body{
+    background-color: ghostwhite;
+    font-family: "Arial Nova";
+    font-size: 20px;
+}
+h1{
+    color: darkblue;
+    text-align:left;
+    font-family: "Arial Nova";
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: "Arial Nova";
+}
+p{
+    color: darkblue;
+    text-align: left;
+    font-family: "Arial Nova";
+    font-size: 20px;
+}
+nav{
+    color: white;
+    text-align: left;
+    font-family: "Arial Nova";
+    font-size: 20px;
+}
